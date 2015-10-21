@@ -1,6 +1,6 @@
 #Jonathan Figueroa Castro##Web Developer / Web Administrator
-3967 Utah Street Apt. #4 San Diego, CA, 92104  347 731-7106  
-[jonathanfigueroacastro@gmail.com](mailto:jonathanfigueroacastro@gmail.com)
+<!---3967 Utah Street Apt. #4 San Diego, CA, 92104  347 731-7106  
+[jonathanfigueroacastro@gmail.com](mailto:jonathanfigueroacastro@gmail.com)-->
 
 [https://www.linkedin.com/in/jonathanfigueroacastro](https://www.linkedin.com/in/jonathanfigueroacastro)
 
