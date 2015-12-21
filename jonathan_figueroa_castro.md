@@ -10,7 +10,7 @@
 
 **Web Developer / Web Administrator**    
 
-Bilingual (Spanish/English) Front End Web Developer, Web Administrator with in-depth knowledge and experience with web and application development. Consistent with demonstrating exceptional work using various web application technologies and software libraries.
+Bilingual (Spanish/English) Web Developer, Web Administrator with in-depth knowledge and experience with web and application development. Consistent with demonstrating exceptional work using various web application technologies and software libraries.
 
 
 Able to work on different platforms and development environments. 
