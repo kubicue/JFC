@@ -29,7 +29,7 @@ Capable of meeting the demands of tight deadlines, strong ability to collaborate
 
 Responsible for supporting all university wide web systems using the following technologies: HTML, XHTML, XML, XSLT, CSS, JavaScript, MySQL, Mariadb, ORACLE, Git, PHP, WordPress, REST and SOAP Web services. 
 
-Work with network systems, such as Apache Server, Nginx Server, Unix, Redhat Server environments. 
+Work with server systems, such as Apache Server, Nginx Server, Unix, Redhat Server environments. 
 
 Additional duties include acting as Section 508 web standards coordinator for the unit and conduct trainings for faculty and staff on various web development and software topics.
 
