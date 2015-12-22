@@ -10,7 +10,7 @@
 
 **Web Developer / Web Administrator**    
 
-Bilingual (Spanish/English) Web Developer, Web Administrator with in-depth knowledge and experience with web and application development. Consistent with demonstrating exceptional work using various web application technologies and software libraries.
+Bilingual (English/Spanish) Web Developer, Web Administrator with in-depth knowledge and experience with web and application development. Consistent with demonstrating exceptional work using various web application technologies and software libraries.
 
 
 Able to work on different platforms and development environments. 
@@ -77,7 +77,7 @@ Use daily the following applications & technologies to complete daily tasks: XHT
 
 [Source Media](http://sourcemedia.com), New York, NY, Jan 2007 - Jan 2009.
 
-
+         
 Responsible for the production of multiple web products such as email e-newsletters, micro sites and multiple CMS driven company sites that use the following technologies to complete daily production duties: HTML, XML,XSLT, CSS, JSP, PHP and Cold Fusion.
 
 
@@ -107,7 +107,7 @@ Utilized GIS software for safety voyage planning and research. Worked with sensi
 Web development using the following technologies: HTML, XHTML, XML, CSS, JavaScript, SQL, ORACLE, JSP, Git, Perl, PHP, Amazon (S3,EC2), REST and SOAP Web services. Additionally, worked with network systems, such as Windows Server, Unix and Ubuntu Server environments. 
 
 Knowledge of the following production softwares from an Intermediate to Advanced user level: Photoshop, Illustrator, Flash, Final Cut Pro, MS Office for both MAC and PC platforms.
-Read, write and speak Spanish and English fluently.
+Read, write and speak English and Spanish fluently.
 
 
 ###Education
