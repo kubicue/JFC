@@ -1,6 +1,6 @@
 #Jonathan Figueroa Castro
 ##Web Developer / Web Administrator
-<!---3967 Utah Street Apt. #4 San Diego, CA, 92104  
+<!---3967 Utah Street Unit #4 San Diego, CA, 92104  
 347 731-7106  
 [jonathanfigueroacastro@gmail.com](mailto:jonathanfigueroacastro@gmail.com)-->
 
@@ -66,7 +66,7 @@ Collaborated with academic researchers and head of faculty departments to docume
 
 Responsible for supporting, implementing, maintaining and managing multiple web applications and database systems. 
 
-Configure and serve dedicated servers (Apple Server, Ubuntu Server & Windows Server). Applied the use of different web development frameworks and content management (ie, Drupal, WordPress, Codeigniter, Cake and Catalyst Ruby on Rails).
+Configure and serve dedicated servers (Apple Server, Ubuntu Server & Windows Server). Applied the use of different web development frameworks and content management (i.e., Drupal, WordPress, Codeigniter and Ruby on Rails).
 
 Configured, developed and served multiple research applications by using open source servers apache & lighttpd. 
 
