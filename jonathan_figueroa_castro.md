@@ -1,7 +1,8 @@
 #Jonathan Figueroa Castro
 ##Web Developer / Web Administrator
-<!---3967 Utah Street Unit #4 San Diego, CA, 92104  
-347 731-7106  
+<!--3967 Utah Street Unit # 4 San Diego, CA, 92104  
+347 731-7106
+ 
 [jonathanfigueroacastro@gmail.com](mailto:jonathanfigueroacastro@gmail.com)-->
 
 [https://www.linkedin.com/in/jonathanfigueroacastro](https://www.linkedin.com/in/jonathanfigueroacastro)
@@ -10,7 +11,7 @@
 
 **Web Developer / Web Administrator**    
 
-Bilingual (English/Spanish) Web Developer, Web Administrator with in-depth knowledge and experience with web and application development. Consistent with demonstrating exceptional work using various web application technologies and software libraries.
+Bilingual (English/Spanish) Web Developer, Web Administrator with in-depth knowledge and experience in web and application development. Consistent in demonstrating exceptional work using various web application technologies and software libraries.
 
 
 Able to work on different platforms and development environments. 
@@ -24,20 +25,20 @@ Capable of meeting the demands of tight deadlines, strong ability to collaborate
 **Web Developer**
 
 
-[The City University of New York](http://cuny.edu), 2014 – Present.
+[The City University of New York](http://cuny.edu), September 2014 – December 2015.
 
 
 Responsible for supporting all university wide web systems using the following technologies: HTML, XHTML, XML, XSLT, CSS, JavaScript, MySQL, Mariadb, ORACLE, Git, PHP, WordPress, REST and SOAP Web services. 
 
 Work with server systems, such as Apache Server, Nginx Server, Unix, Redhat Server environments. 
 
-Additional duties include acting as Section 508 web standards coordinator for the unit and conduct trainings for faculty and staff on various web development and software topics.
+Additional duties include acting as Section 508 web standards coordinator for the unit and conduct training for faculty and staff on various web development and software topics.
 
 
 **Web Developer**
 
 
-[The Working World](http://theworkingworld.org), Brooklyn, NY, Dec 2012– September 2014.
+[The Working World](http://theworkingworld.org), Brooklyn, NY, December 2012– September 2014.
 
 
 Responsible for supporting and building new back-end fixtures to support cooperative loan platform that serve multiple business transactions in three countries where loan officers track loan events by using open source server apache. 
@@ -101,26 +102,25 @@ Conducted shipboard operations, navigation, utilized nautical terms, implemented
 Utilized GIS software for safety voyage planning and research. Worked with sensitive and classified information that required a high level government security clearance.
 
 
-###Working Knowledge Skills
+###Working Knowledge
 
 
-Web development using the following technologies: HTML, XHTML, XML, CSS, JavaScript, SQL, ORACLE, JSP, Git, Perl, PHP, Amazon (S3,EC2), REST and SOAP Web services. Additionally, worked with network systems, such as Windows Server, Unix and Ubuntu Server environments. 
+Web development using the following technologies: HTML, XHTML, XML, CSS, JavaScript, SQL, ORACLE, JSP, Git, Perl, PHP, RUBY, Amazon (S3,EC2), REST and SOAP Web services. Additionally, worked with network systems, such as Windows Server, Unix and Ubuntu Server environments. 
 
 Knowledge of the following production softwares from an Intermediate to Advanced user level: Photoshop, Illustrator, Flash, Final Cut Pro, MS Office for both MAC and PC platforms.
-Read, write and speak English and Spanish fluently.
+Read, write and speak in English and Spanish fluently.
 
 
 ###Education
 
+General Assembly, Santa Monica, CA,   
+Back End Web Developer Certificate 2015 
 
-San Diego Mesa College, San Diego, CA
-
-
+San Diego Mesa College, San Diego, CA,  
 AOS Multimedia Certificate 2005
 
 
-Carlos F. Daniels Technology School, Carolina, Puerto Rico 
-
+Carlos F. Daniels Technology School, Carolina, PR,  
 Technical Degree in Architectural Engineering and Drafting 1997
 
 
