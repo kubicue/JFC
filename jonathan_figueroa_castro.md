@@ -49,7 +49,7 @@ Use of the following applications & technologies to complete daily tasks: HTML4,
 **Independent Web Developer / Visual Designer**
 
 
-[kubicue.net](http://kubicue.net), San Diego, CA / Brooklyn, NYC, June, 2003 – Present.
+[kubicue.com](http://kubicue.com), San Diego, CA / Brooklyn, NYC, June, 2003 – Present.
 
 
 Clients include The Working World, Center for Family Life, Center for Immigrant Families, Artist Miguel Luciano, Artist Juan Sanchez and San Diego Mesa College. 
