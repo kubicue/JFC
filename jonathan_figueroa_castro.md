@@ -28,9 +28,9 @@ Capable of meeting the demands of tight deadlines, strong ability to collaborate
 [The City University of New York](http://cuny.edu), Sept. 2014 – Dec. 2015.
 
 
-Responsible for supporting all university wide web systems using the following technologies: HTML, XHTML, XML, XSLT, CSS, JavaScript, MySQL, Mariadb, ORACLE, Git, PHP, WordPress, REST and SOAP Web services. 
+Responsible for supporting all university wide web systems using the following technologies: HTML, XHTML, XML, XSLT, CSS, JavaScript, MySQL, Mariadb, Git, PHP, WordPress, REST and SOAP Web services. 
 
-Work with server systems, such as Apache Server, Nginx Server, Unix, Redhat Server environments. 
+Work with server systems, such as Apache Server, Nginx Server, Redhat Server environments. 
 
 Additional duties include acting as Section 508 web standards coordinator for the unit and conduct training for faculty and staff on various web development and software topics.
 
@@ -105,7 +105,7 @@ Utilized GIS software for safety voyage planning and research. Worked with sensi
 ###Working Knowledge
 
 
-Web development using the following technologies: HTML, XHTML, XML, CSS, JavaScript, SQL, ORACLE, JSP, Git, Perl, PHP, RUBY, Amazon (S3,EC2), REST and SOAP Web services. Additionally, worked with network systems, such as Windows Server, Unix and Ubuntu Server environments. 
+Web development using the following technologies: HTML, XHTML, XML, CSS, JavaScript, SQL, JSP, Git, Perl, PHP, RUBY, Amazon (S3,EC2), REST and SOAP Web services. Additionally, worked with network systems, such as Windows Server, Unix and Ubuntu Server environments. 
 
 Knowledge of the following production softwares from an Intermediate to Advanced user level: Photoshop, Illustrator, Flash, Final Cut Pro, MS Office for both MAC and PC platforms.
 Read, write and speak in English and Spanish fluently.
