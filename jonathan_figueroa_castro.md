@@ -25,7 +25,7 @@ Capable of meeting the demands of tight deadlines, strong ability to collaborate
 **Web Developer**
 
 
-[The City University of New York](http://cuny.edu), September 2014 – December 2015.
+[The City University of New York](http://cuny.edu), Sept. 2014 – Dec. 2015.
 
 
 Responsible for supporting all university wide web systems using the following technologies: HTML, XHTML, XML, XSLT, CSS, JavaScript, MySQL, Mariadb, ORACLE, Git, PHP, WordPress, REST and SOAP Web services. 
@@ -38,7 +38,7 @@ Additional duties include acting as Section 508 web standards coordinator for th
 **Web Developer**
 
 
-[The Working World](http://theworkingworld.org), Brooklyn, NY, December 2012– September 2014.
+[The Working World](http://theworkingworld.org), Brooklyn, NY, Dec. 2012– Sept. 2014.
 
 
 Responsible for supporting and building new back-end fixtures to support cooperative loan platform that serve multiple business transactions in three countries where loan officers track loan events by using open source server apache. 
@@ -49,7 +49,7 @@ Use of the following applications & technologies to complete daily tasks: HTML4,
 **Independent Web Developer / Visual Designer**
 
 
-[kubicue.com](http://kubicue.com), San Diego, CA / Brooklyn, NYC, June, 2003 – Present.
+[kubicue](http://kubicue.com), San Diego, CA / Brooklyn, NYC, Jun., 2003 – Present.
 
 
 Clients include The Working World, Center for Family Life, Center for Immigrant Families, Artist Miguel Luciano, Artist Juan Sanchez and San Diego Mesa College. 
@@ -60,7 +60,7 @@ Projects completed range from development of websites, database applications, st
 **Web Developer / Web Administrator**
 
 
-[Hunter College](http://hunter.cuny.edu), CUNY, CPS New York, NY, Dec 2009 - Dec 2012.
+[Hunter College](http://hunter.cuny.edu), CUNY, CPS New York, NY, Dec. 2009 - Dec. 2012.
 
 
 Collaborated with academic researchers and head of faculty departments to document, collect and distribute research across CUNY network and other academic institutions in the US. 
@@ -76,7 +76,7 @@ Use daily the following applications & technologies to complete daily tasks: XHT
 
 **Web Developer / Multimedia Producer**
 
-[Source Media](http://sourcemedia.com), New York, NY, Jan 2007 - Jan 2009.
+[Source Media](http://sourcemedia.com), New York, NY, Jan. 2007 - Jan. 2009.
 
          
 Responsible for the production of multiple web products such as email e-newsletters, micro sites and multiple CMS driven company sites that use the following technologies to complete daily production duties: HTML, XML,XSLT, CSS, JSP, PHP and Cold Fusion.
@@ -85,7 +85,7 @@ Responsible for the production of multiple web products such as email e-newslett
 **Junior Web Designer / Web Developer**
 
 
-[San Diego Mesa College](http://www.sdmesa.edu/), San Diego, CA, Jan 2005 - Dec 2006.
+[San Diego Mesa College](http://www.sdmesa.edu/), San Diego, CA, Jan. 2005 - Dec. 2006.
 
 
 Responsible for assisting the college Web Master with the design, development & updates to all current pages. Utilized the following technologies: HTML, XML, XHTML strict, CSS Cold Fusion, PHP, SQL, JSP and Flash ActionScript 3.0 for updates and development.
@@ -94,7 +94,7 @@ Responsible for assisting the college Web Master with the design, development & 
 **Quartermaster 2nd Class / Small Craft Navigator United States Navy**
 
 
-Various Locations, Home Port San Diego, CA, June 1999 - June 2004.
+Various Locations, Home Port San Diego, CA, Jun. 1999 - Jun. 2004.
 
 
 Conducted shipboard operations, navigation, utilized nautical terms, implemented protocols and voyage planning. Followed & interpreted rules of the road, charts, maps, radar data and other related data. 
