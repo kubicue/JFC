@@ -52,7 +52,7 @@ Use of the following applications & technologies to complete daily tasks: HTML4,
 [kubicue](http://kubicue.com), San Diego, CA / Brooklyn, NYC, Jun., 2003 – Present.
 
 
-Clients include The Working World, Center for Family Life, Center for Immigrant Families, Artist Miguel Luciano, Artist Juan Sanchez and San Diego Mesa College. 
+Clients include The City University of New York, The Working World, Center for Family Life, Center for Immigrant Families, Artist Miguel Luciano, Artist Juan Sanchez and San Diego Mesa College. 
 
 Projects completed range from development of websites, database applications, studio collaborations, and promotional materials for non-profits and cooperative businesses.
 
