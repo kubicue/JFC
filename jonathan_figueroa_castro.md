@@ -32,7 +32,7 @@ His work with WordPress, Drupal and other frameworks stresses functionality and 
 **Independent Web Developer / Visual Designer**
 
 
-[kubicue](http://kubicue.com), San Diego, CA / Brooklyn, NYC, Jun., 2003 – Present.
+[kubicue](http://kubicue.com), San Diego, CA  Jun., 2003 – Present.
 
 
 Clients include The City University of New York, The Working World, Center for Family Life, Center for Immigrant Families, Artist Miguel Luciano, Artist Juan Sanchez and San Diego Mesa College. 
