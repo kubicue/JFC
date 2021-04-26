@@ -24,7 +24,7 @@ Capable of meeting the demands of tight deadlines, strong ability to collaborate
 ###Work Experience
 **Web Developer**
 
-[CoLab Cooperative](http://colab.coop), Oct.. 2017 – Dec. 2015.
+[CoLab Cooperative](http://colab.coop), Oct.. 2017 – Present.
 
 As a CoLab developer & business developer, Jonathan creates web products that are fully accessible, follow best practices, and provides value and social impact to CoLab clients.
 His work with WordPress, Drupal and other frameworks stresses functionality and positive user experience while prioritizing the needs of clients and collaborators. 
