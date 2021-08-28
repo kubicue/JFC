@@ -26,8 +26,10 @@ Capable of meeting the demands of tight deadlines, strong ability to collaborate
 
 [CoLab Cooperative](http://colab.coop), Oct. 2017 – Present.
 
-As a CoLab developer & business developer, Jonathan creates web products that are fully accessible, follow best practices, and provides value and social impact to CoLab clients.
-His work with WordPress, Drupal and other frameworks stresses functionality and positive user experience while prioritizing the needs of clients and collaborators. 
+As a CoLab web developer & business development member, Jonathan creates web products that are fully accessible, follow best practices, and provides value and social impact to CoLab clients.
+His work with WordPress, Drupal and other frameworks stresses functionality and positive user experience while prioritizing the needs of clients and collaborators.
+Work directly with client accounts and many other stakeholders and define their key requirements to support and develop their web products.
+Write client proposals and coordinate and define the scope of work that adds value to our client web products. 
 
 **Independent Web Developer / Visual Designer**
 
