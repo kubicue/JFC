@@ -112,12 +112,14 @@ Read, write and speak in English and Spanish fluently.
 
 **Education**
 
+San Diego City College, San Diego, CA, 
+Certificate of Performance Lean Six Sigma 2021
+
 General Assembly, Santa Monica, CA,   
 Back End Web Developer Certificate 2015 
 
 San Diego Mesa College, San Diego, CA,  
 AOS Multimedia Certificate 2005
-
 
 Carlos F. Daniels Technology School, Carolina, PR,  
 Technical Degree in Architectural Engineering and Drafting 1997
