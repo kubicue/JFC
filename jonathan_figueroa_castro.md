@@ -17,6 +17,7 @@ BI am a bilingual Web Developer and Web Administrator with expertise in business
 I want to enhance my understanding of the latest web frameworks and technologies. With work experience spanning over two decades, I have excelled in meeting tight deadlines while catering to the client's requirements. Additionally, I possess excellent collaboration skills, which enable me to work seamlessly with teams to resolve issues and create actionable ideas into outstanding web products and digital experiences.
 
 ###Work Experience
+
 **Web Developer / Bussines Development Lead**
 
 [CoLab Cooperative](http://colab.coop), Oct. 2017 – Present.
