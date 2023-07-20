@@ -1,6 +1,6 @@
-#Jonathan Figueroa Castro
+**Jonathan Figueroa Castro**
+Web Full Stack Developer / Business Development Lead
 
-##Web Developer / Web Administrator
 <!--5244 Pirotte Drive San Diego, CA, 92105  
 347 731-7106
  
@@ -10,15 +10,15 @@
 
 [https://github.com/kubicue](https://github.com/kubicue)
 
-**Web Developer / Web Administrator**    
+**Web Full Stack Developer / Business Development Lead**
 
-BI am a bilingual Web Developer and Web Administrator with expertise in business technical strategy. I have extensive knowledge and experience in web and application development, consistently producing exceptional work using various web application technologies and software libraries. I also possess a strong understanding of the business aspects of the web and digital products. I am proficient in both English and Spanish.
+I am a bilingual Web Developer and Web Administrator with expertise in business technical strategy. I have extensive knowledge and experience in web and application development, consistently producing exceptional work using various web application technologies and software libraries. I also possess a strong understanding of the business aspects of the web and digital products. I am proficient in both English and Spanish.
 
 I want to enhance my understanding of the latest web frameworks and technologies. With work experience spanning over two decades, I have excelled in meeting tight deadlines while catering to the client's requirements. Additionally, I possess excellent collaboration skills, which enable me to work seamlessly with teams to resolve issues and create actionable ideas into outstanding web products and digital experiences.
 
-###Work Experience
+**Work Experience**
 
-**Web Developer / Bussines Development Lead**
+**Web Full Stack Developer / Business Development Lead**
 
 [CoLab Cooperative](http://colab.coop), Oct. 2017 – Present.
 
@@ -67,7 +67,7 @@ Responsible for supporting, implementing, maintaining and managing multiple web 
 
 Configure and serve dedicated servers (Apple Server, Ubuntu Server & Windows Server). Applied the use of different web development frameworks and content management (i.e., Drupal, WordPress, Codeigniter and Ruby on Rails).
 
-Configured, developed and served multiple research applications by using open source servers apache & lighttpd. 
+Configured, developed and served multiple research applications by using open source servers apache, nginx & lighttpd. 
 
 Use daily the following applications & technologies to complete daily tasks: XHTML, XML, XSLT, CSS, JavaScript frameworks, SQL PHP, Perl and Terminal, Bash Shell Scripting.
 
@@ -100,16 +100,16 @@ Conducted shipboard operations, navigation, utilized nautical terms, implemented
 Utilized GIS software for safety voyage planning and research. Worked with sensitive and classified information that required a high level government security clearance.
 
 
-###Working Knowledge
+**Working Knowledge**
 
 
 Web development using the following technologies: HTML, XHTML, XML, CSS, JavaScript, SQL, JSP, Git, Perl, PHP, RUBY, Amazon (S3,EC2), REST and SOAP Web services. Additionally, worked with network systems, such as Windows Server, Unix and Ubuntu Server environments. 
 
-Knowledge of the following production softwares from an Intermediate to Advanced user level: Photoshop, Illustrator, Flash, Final Cut Pro, MS Office for both MAC and PC platforms.
+Knowledge of the following production software from an Intermediate to Advanced user level: Figma, Photoshop, Illustrator, Flash, Final Cut Pro, Notion, Jira, Google Workspace, MS Office for both MAC, Linux and PC platforms.
 Read, write and speak in English and Spanish fluently.
 
 
-###Education
+**Education**
 
 General Assembly, Santa Monica, CA,   
 Back End Web Developer Certificate 2015 
@@ -122,5 +122,5 @@ Carlos F. Daniels Technology School, Carolina, PR,
 Technical Degree in Architectural Engineering and Drafting 1997
 
 
-###References
+**References**
 Available upon request
