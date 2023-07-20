@@ -11,25 +11,16 @@
 
 **Web Developer / Web Administrator**    
 
-Bilingual (English/Spanish) Web Developer, Web Administrator with in-depth knowledge and experience in web and application development. Consistent in demonstrating exceptional work using various web application technologies and software libraries.
+BI am a bilingual Web Developer and Web Administrator with expertise in business technical strategy. I have extensive knowledge and experience in web and application development, consistently producing exceptional work using various web application technologies and software libraries. I also possess a strong understanding of the business aspects of the web and digital products. I am proficient in both English and Spanish.
 
-
-Able to work on different platforms and development environments. 
-
-Interested in expanding knowledge in new web frameworks and technologies.
-
-Capable of meeting the demands of tight deadlines, strong ability to collaborate and work jointly with a team to solve issues and develop concrete ideas that can be translated into deliverables.
-
+I want to enhance my understanding of the latest web frameworks and technologies. With work experience spanning over two decades, I have excelled in meeting tight deadlines while catering to the client's requirements. Additionally, I possess excellent collaboration skills, which enable me to work seamlessly with teams to resolve issues and create actionable ideas into outstanding web products and digital experiences.
 
 ###Work Experience
-**Web Developer**
+**Web Developer / Bussines Development Lead**
 
 [CoLab Cooperative](http://colab.coop), Oct. 2017 – Present.
 
-As a CoLab web developer & business development member, Jonathan creates web products that are fully accessible, follow best practices, and provides value and social impact to CoLab clients.
-His work with WordPress, Drupal and other frameworks stresses functionality and positive user experience while prioritizing the needs of clients and collaborators.
-Work directly with client accounts and many other stakeholders and define their key requirements to support and develop their web products.
-Write client proposals and coordinate and define the scope of work that adds value to our client web products. 
+Jonathan is a CoLab member responsible for web development and business growth. He designs web products that adhere to best practices, are fully accessible, and provide social impact and value to CoLab clients. He prioritizes the needs of clients and collaborators while emphasizing functionality and positive user experience. Jonathan works closely with client accounts and stakeholders to identify essential requirements and support the development of web products. He also writes client proposals and coordinates and defines the scope of work required to enhance the value of our client web products. 
 
 **Independent Web Developer / Visual Designer**
 
@@ -37,7 +28,7 @@ Write client proposals and coordinate and define the scope of work that adds val
 [kubicue](http://kubicue.com), San Diego, CA  Jun., 2003 – Present.
 
 
-Clients include The City University of New York, The Working World, Center for Family Life, Center for Immigrant Families, Artist Miguel Luciano, Artist Juan Sanchez and San Diego Mesa College. 
+Clients include: The City University of New York, The Working World, Center for Family Life, Center for Immigrant Families, Artist Miguel Luciano, Artist Juan Sanchez and San Diego Mesa College. 
 
 Projects completed range from development of websites, database applications, studio collaborations, and promotional materials for non-profits and cooperative businesses.
 
