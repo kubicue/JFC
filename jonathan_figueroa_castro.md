@@ -112,7 +112,7 @@ Read, write and speak in English and Spanish fluently.
 
 **Education**
 
-San Diego City College, San Diego, CA,
+San Diego City College, San Diego, CA,<br>
 Certificate of Performance Lean Six Sigma
 
 General Assembly, Santa Monica, CA,   
