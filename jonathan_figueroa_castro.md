@@ -109,6 +109,7 @@ Web development using the following technologies: HTML, XHTML, XML, CSS, JavaScr
 Knowledge of the following production software from an Intermediate to Advanced user level: Figma, Photoshop, Illustrator, Flash, Final Cut Pro, Notion, Jira, Google Workspace, MS Office for both MAC, Linux and PC platforms.
 Read, write and speak in English and Spanish fluently.
 
+
 **Education**
 
 San Diego City College, San Diego, CA,
@@ -119,6 +120,7 @@ Back End Web Developer Certificate 2015
 
 San Diego Mesa College, San Diego, CA,  
 AOS Multimedia Certificate 2005
+
 
 Carlos F. Daniels Technology School, Carolina, PR,  
 Technical Degree in Architectural Engineering and Drafting 1997
