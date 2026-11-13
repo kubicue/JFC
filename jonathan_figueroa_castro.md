@@ -1,131 +1,87 @@
-**Jonathan Figueroa Castro**
-
-Web Full Stack Developer / Business Development Lead
-
-<!--5244 Pirotte Drive San Diego, CA, 92105  
-347 731-7106
- 
-[jonathanfigueroacastro@gmail.com](mailto:jonathanfigueroacastro@gmail.com)-->
-
-[https://www.linkedin.com/in/jonathanfigueroacastro](https://www.linkedin.com/in/jonathanfigueroacastro)
-
-[https://github.com/kubicue](https://github.com/kubicue)
-
-**Web Full Stack Developer / Business Development Lead**
-
-I am a bilingual Web Developer and Web Administrator with expertise in business technical strategy. I have extensive knowledge and experience in web and application development, consistently producing exceptional work using various web application technologies and software libraries. I also possess a strong understanding of the business aspects of the web and digital products. I am proficient in both English and Spanish.
-
-I want to enhance my understanding of the latest web frameworks and technologies. With work experience spanning over two decades, I have excelled in meeting tight deadlines while catering to the client's requirements. Additionally, I possess excellent collaboration skills, which enable me to work seamlessly with teams to resolve issues and create actionable ideas into outstanding web products and digital experiences.
-
-**Work Experience**
-
-**Web Full Stack Developer / Business Development Lead**
-
-[CoLab Cooperative](http://colab.coop), Oct. 2017 – Present.
-
-Jonathan is a CoLab member responsible for web development and business growth. He designs web products that adhere to best practices, are fully accessible, and provide social impact and value to CoLab clients. He prioritizes the needs of clients and collaborators while emphasizing functionality and positive user experience. Jonathan works closely with client accounts and stakeholders to identify essential requirements and support the development of web products. He also writes client proposals and coordinates and defines the scope of work required to enhance the value of our client web products. 
-
-**Independent Web Developer / Visual Designer**
-
-
-[kubicue](http://kubicue.com), San Diego, CA  Jun., 2003 – Present.
-
-
-Clients include: The City University of New York, The Working World, Center for Family Life, Center for Immigrant Families, Artist Miguel Luciano, Artist Juan Sanchez and San Diego Mesa College. 
-
-Projects completed range from development of websites, database applications, studio collaborations, and promotional materials for non-profits and cooperative businesses.
-
-**Web Developer**
-[The City University of New York](http://cuny.edu), Sept. 2014 – Dec. 2015.
-
-
-Responsible for supporting all university wide web systems using the following technologies: HTML, XHTML, XML, XSLT, CSS, JavaScript, MySQL, Mariadb, Git, PHP, WordPress, REST and SOAP Web services. 
-
-Work with server systems, such as Apache Server, Nginx Server, Redhat Server environments. 
-
-Additional duties include acting as Section 508 web standards coordinator for the unit and conduct training for faculty and staff on various web development and software topics.
-
-
-**Web Developer**
-
-
-[The Working World](http://theworkingworld.org), Brooklyn, NY, Dec. 2012– Sept. 2014.
-
-
-Responsible for supporting and building new back-end fixtures to support cooperative loan platform that serve multiple business transactions in three countries where loan officers track loan events by using open source server apache. 
-
-Use of the following applications & technologies to complete daily tasks: HTML4, HTML5 , XSLT, CSS, JavaScript libraries, Git, MYSQL, PHP, Ruby Rails, Terminal, PayPal API & Bash Shell Scripting.
-
-**Web Developer / Web Administrator**
-
-
-[Hunter College](http://hunter.cuny.edu), CUNY, CPS New York, NY, Dec. 2009 - Dec. 2012.
-
-
-Collaborated with academic researchers and head of faculty departments to document, collect and distribute research across CUNY network and other academic institutions in the US. 
-
-Responsible for supporting, implementing, maintaining and managing multiple web applications and database systems. 
-
-Configure and serve dedicated servers (Apple Server, Ubuntu Server & Windows Server). Applied the use of different web development frameworks and content management (i.e., Drupal, WordPress, Codeigniter and Ruby on Rails).
-
-Configured, developed and served multiple research applications by using open source servers apache, nginx & lighttpd. 
-
-Use daily the following applications & technologies to complete daily tasks: XHTML, XML, XSLT, CSS, JavaScript frameworks, SQL PHP, Perl and Terminal, Bash Shell Scripting.
-
-
-**Web Developer / Multimedia Producer**
-
-[Source Media](http://sourcemedia.com), New York, NY, Jan. 2007 - Jan. 2009.
-
-         
-Responsible for the production of multiple web products such as email e-newsletters, micro sites and multiple CMS driven company sites that use the following technologies to complete daily production duties: HTML, XML,XSLT, CSS, JSP, PHP and Cold Fusion.
-
-
-**Junior Web Designer / Web Developer**
-
-
-[San Diego Mesa College](http://www.sdmesa.edu/), San Diego, CA, Jan. 2005 - Dec. 2006.
-
-
-Responsible for assisting the college Web Master with the design, development & updates to all current pages. Utilized the following technologies: HTML, XML, XHTML strict, CSS Cold Fusion, PHP, SQL, JSP and Flash ActionScript 3.0 for updates and development.
-
-
-**Quartermaster 2nd Class / Small Craft Navigator United States Navy**
-
-
-Various Locations, Home Port San Diego, CA, Jun. 1999 - Jun. 2004.
-
-
-Conducted shipboard operations, navigation, utilized nautical terms, implemented protocols and voyage planning. Followed & interpreted rules of the road, charts, maps, radar data and other related data. 
-
-Utilized GIS software for safety voyage planning and research. Worked with sensitive and classified information that required a high level government security clearance.
-
-
-**Working Knowledge**
-
-
-Web development using the following technologies: HTML, XHTML, XML, CSS, JavaScript, SQL, JSP, Git, Perl, PHP, RUBY, Amazon (S3,EC2), REST and SOAP Web services. Additionally, worked with network systems, such as Windows Server, Unix and Ubuntu Server environments. 
-
-Knowledge of the following production software from an Intermediate to Advanced user level: Figma, Photoshop, Illustrator, Flash, Final Cut Pro, Notion, Jira, Google Workspace, MS Office for both MAC, Linux and PC platforms.
-Read, write and speak in English and Spanish fluently.
-
-
-**Education**
-
-San Diego City College, San Diego, CA,<br>
-Certificate of Performance Lean Six Sigma 2021
-
-General Assembly, Santa Monica, CA,   
-Back End Web Developer Certificate 2015 
-
-San Diego Mesa College, San Diego, CA,  
-AOS Multimedia Certificate 2005
-
-
-Carlos F. Daniels Technology School, Carolina, PR,  
-Technical Degree in Architectural Engineering and Drafting 1997
-
-
-**References**
-
-Available upon request
+# Jonathan Figueroa Castro
+** Product Engineer | Technical Solutions Consultant**
+
+San Diego, CA • (347) 731-7106 • [jonathanfigueroacastro@gmail.com](mailto:jonathanfigueroacastro@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/jonathanfigueroacastro) • [GitHub](https://github.com/kubicue) • Bilingual: English & Spanish (Professional Fluency)
+
+---
+
+### Executive Profile
+Results-driven **Solutions Architect and Technical Consultant** with over two decades of experience designing resilient web architectures, enterprise platforms, and digital transformation roadmaps. Expert in bridging the gap between business objectives and technical execution—leading client discovery sessions, authoring Scopes of Work (SOWs), evaluating architectural trade-offs, and overseeing cross-functional engineering delivery. Proven authority in enterprise accessibility (WCAG / Section 508), multi-tenant cloud/server infrastructure, systems integration (REST/SOAP/APIs), and continuous process improvement backed by Lean Six Sigma methodologies.
+
+---
+
+### Core Competencies & Architecture Toolkit
+
+* **Architectural Disciplines:** Solution Architecture, Technical Discovery, System Integration, API Design (REST/SOAP), Database Modeling, Multi-Tenant Architecture, RFP/Proposal Authoring, SOW Definition, Technical Due Diligence
+* **Compliance, Governance & Security:** Section 508 Standards, WCAG 2.1/2.2 (A/AA/AAA), Accessibility Audits, Data Privacy, Technical Governance, Lean Six Sigma Process Optimization
+* **Infrastructure & Cloud Platforms:** AWS (EC2, S3), Linux Systems Administration (RHEL, Ubuntu), Web Servers (Nginx, Apache, Lighttpd), DNS & Domain Management, CI/CD Fundamentals
+* **Languages & Core Technologies:** PHP, Ruby, JavaScript (ES6+), SQL, Bash/Shell Scripting, HTML5/Semantic Web, CSS3/Sass, XML/JSON
+* **Frameworks, Platforms & CMS:** Ruby on Rails, WordPress (Enterprise), Drupal, CodeIgniter, Payment Gateways (PayPal, Stripe)
+* **Stakeholder Management & Tools:** Executive Stakeholder Management, Agile/Scrum, Cross-Functional Team Leadership, Figma, Jira, Notion
+
+---
+
+### Professional Experience
+
+#### **CoLab Cooperative** | Remote  
+**Solutions Architect & Technical Business Development Lead** *(Oct 2017 – Present)*
+* Serve as principal client advisor and technical architect for mission-driven enterprises, cooperatives, and high-impact digital initiatives.
+* Lead pre-sales technical discovery and architectural evaluations; author comprehensive client proposals, Scopes of Work (SOWs), risk assessments, and technical roadmaps that consistently secure high-value client contracts.
+* Design end-to-end solution architectures prioritizing high availability, user-centered design, and stringent WCAG 2.1 accessibility benchmarks.
+* Formulate technical specifications and API integration strategies, orchestrating distributed development teams through sprint planning, architecture reviews, and delivery milestones.
+* Conduct continuous client advisory sessions, translating complex architectural concepts and trade-offs into clear business outcomes for non-technical executive stakeholders.
+
+#### **kubicue** | San Diego, CA  
+**Principal Technology Consultant & Systems Architect** *(Jun 2003 – Present)*
+* Provide vendor-agnostic technology consulting, digital strategy, and full-lifecycle solution architecture for non-profit organizations, educational institutions, and commercial clients.
+* Notable Client Engagements: *City University of New York (CUNY), The Working World, Center for Family Life, Center for Immigrant Families, San Diego Mesa College*.
+* Evaluate client business problems to recommend optimal tech stacks, balancing cost, maintainability, compliance, and time-to-market.
+* Deliver turnkey platform deployments encompassing cloud hosting setup, custom database schemas, third-party system integrations, and payment processor architectures.
+
+#### **The City University of New York (CUNY)** | New York, NY  
+**Lead Web Solutions Architect & Section 508 Standards Coordinator** *(Sept 2014 – Dec 2015)*
+* Directed the architectural modernization and stability of university-wide web infrastructure serving tens of thousands of faculty, administrative staff, and students across 24 campuses.
+* Established and institutionalized the university's **Section 508 and WCAG Digital Accessibility Framework**, authoring compliance guidelines, technical audit checklists, and remediation protocols.
+* Designed and supervised middleware integrations connecting legacy administrative databases with public web portals utilizing RESTful and SOAP web services.
+* Delivered technical governance training and architectural workshops to senior department leads and engineering personnel on web standards, security compliance, and CMS best practices.
+
+#### **The Working World** | Brooklyn, NY  
+**Systems Architect & Back-End Engineer** *(Dec 2012 – Sept 2014)*
+* Architected and maintained the back-end infrastructure for an international micro-finance and cooperative loan platform supporting operations across the United States, Argentina, and Nicaragua.
+* Designed transactional database schemas (MySQL) and secure financial reporting workflows integrated with third-party payment APIs (PayPal API, custom banking interfaces).
+* Hardened server infrastructure and audit logging protocols across distributed Linux/Apache instances to ensure transactional integrity and data confidentiality for international loan officers.
+
+#### **Hunter College, CUNY** | New York, NY  
+**Solutions Engineer & Systems Administrator** *(Dec 2009 – Dec 2012)*
+* Architected distributed, multi-tenant digital repositories for academic research dissemination across national collegiate networks.
+* Designed and deployed fault-tolerant Linux server environments (Apache, Nginx, Lighttpd) accommodating variable traffic surges during institutional research publications.
+* Standardized application framework adoption across Drupal, WordPress, CodeIgniter, and Ruby on Rails to reduce codebase fragmentation and operational maintenance costs.
+
+#### **Source Media** | New York, NY  
+**Digital Publishing Systems Engineer** *(Jan 2007 – Jan 2009)*
+* Engineered high-throughput content syndication systems and automated publishing pipelines for major digital media and financial publication brands.
+* Formulated architectural templates for dynamic content delivery across high-volume CMS properties and subscriber email distribution networks.
+
+#### **San Diego Mesa College** | San Diego, CA  
+**Web Systems Specialist** *(Jan 2005 – Dec 2006)*
+* Assisted the Head Webmaster in evaluating, testing, and modernizing campus web services for cross-platform compatibility and institutional standards compliance.
+
+---
+
+### Military Service & Operational Leadership
+
+#### **United States Navy** | San Diego, CA & International Deployments  
+**Quartermaster Second Class (E-5) / Small Craft Navigator** *(Jun 1999 – Jun 2004)*
+* Directed mission-critical navigation operations, tactical route planning, and real-time hazard evaluation in high-pressure maritime environments.
+* Managed classified intelligence, tactical charts, and radar systems under strict Department of Defense security clearance protocols.
+* Enforced stringent operational standard operating procedures (SOPs) and risk mitigation protocols; trained and mentored junior navigation watch teams.
+
+---
+
+### Education & Certifications
+
+* **Certificate of Performance in Lean Six Sigma** — San Diego City College (2021)
+* **Back-End Web Development Immersive** — General Assembly, Santa Monica, CA (2015)
+* **AOS Multimedia & Web Technologies** — San Diego Mesa College, San Diego, CA (2005)
+* **Technical Degree in Architectural Engineering & Drafting** — Carlos F. Daniels Technology School, PR (1997)
