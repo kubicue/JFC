@@ -1,5 +1,5 @@
 # Jonathan Figueroa Castro
-** Product Engineer | Technical Solutions Consultant**
+**Product Engineer | Full-Stack & Technical Strategy Lead**
 
 San Diego, CA • (347) 731-7106 • [jonathanfigueroacastro@gmail.com](mailto:jonathanfigueroacastro@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/jonathanfigueroacastro) • [GitHub](https://github.com/kubicue) • Bilingual: English & Spanish (Professional Fluency)
@@ -7,65 +7,64 @@ San Diego, CA • (347) 731-7106 • [jonathanfigueroacastro@gmail.com](mailto:j
 ---
 
 ### Executive Profile
-Results-driven **Solutions Architect and Technical Consultant** with over two decades of experience designing resilient web architectures, enterprise platforms, and digital transformation roadmaps. Expert in bridging the gap between business objectives and technical execution—leading client discovery sessions, authoring Scopes of Work (SOWs), evaluating architectural trade-offs, and overseeing cross-functional engineering delivery. Proven authority in enterprise accessibility (WCAG / Section 508), multi-tenant cloud/server infrastructure, systems integration (REST/SOAP/APIs), and continuous process improvement backed by Lean Six Sigma methodologies.
+Versatile **Product Engineer** with over two decades of experience designing, building, and scaling user-centric digital products from concept to production. Bridges product strategy, user experience (UX), and full-stack engineering—collaborating closely with designers, stakeholders, and end-users to translate complex business needs into intuitive, high-impact web applications. Deep expertise in end-to-end product delivery, inclusive design (WCAG / Section 508 accessibility), robust API and database integrations, and continuous product improvement driven by Lean Six Sigma methodologies.
 
 ---
 
-### Core Competencies & Architecture Toolkit
+### Core Competencies & Product Engineering Toolkit
 
-* **Architectural Disciplines:** Solution Architecture, Technical Discovery, System Integration, API Design (REST/SOAP), Database Modeling, Multi-Tenant Architecture, RFP/Proposal Authoring, SOW Definition, Technical Due Diligence
-* **Compliance, Governance & Security:** Section 508 Standards, WCAG 2.1/2.2 (A/AA/AAA), Accessibility Audits, Data Privacy, Technical Governance, Lean Six Sigma Process Optimization
-* **Infrastructure & Cloud Platforms:** AWS (EC2, S3), Linux Systems Administration (RHEL, Ubuntu), Web Servers (Nginx, Apache, Lighttpd), DNS & Domain Management, CI/CD Fundamentals
-* **Languages & Core Technologies:** PHP, Ruby, JavaScript (ES6+), SQL, Bash/Shell Scripting, HTML5/Semantic Web, CSS3/Sass, XML/JSON
-* **Frameworks, Platforms & CMS:** Ruby on Rails, WordPress (Enterprise), Drupal, CodeIgniter, Payment Gateways (PayPal, Stripe)
-* **Stakeholder Management & Tools:** Executive Stakeholder Management, Agile/Scrum, Cross-Functional Team Leadership, Figma, Jira, Notion
+* **Product & Engineering Disciplines:** Product Engineering, End-to-End Feature Delivery, User Experience (UX) & Prototyping, Technical Discovery, Product Scoping & SOWs, System & API Integration, Database Modeling, Cross-Functional Leadership
+* **Accessibility, Inclusion & Quality:** Section 508 Standards, WCAG 2.1/2.2 (A/AA/AAA), Inclusive Design, Accessibility Audits, Lean Six Sigma Process Optimization, Cross-Browser Quality Assurance
+* **Full-Stack & Core Technologies:** JavaScript (ES6+), PHP, Ruby, SQL, Bash/Shell Scripting, HTML5/Semantic Web, CSS3/Sass, XML/JSON, RESTful & SOAP APIs
+* **Frameworks, Platforms & CMS:** Ruby on Rails, WordPress (Enterprise/Custom), Drupal, CodeIgniter, Payment Gateways (PayPal, Stripe)
+* **Cloud & Infrastructure:** AWS (EC2, S3), Linux Systems Administration (Ubuntu, RHEL), Web Servers (Nginx, Apache), Git/GitHub, CI/CD Fundamentals
+* **Design, Collaboration & Workflow:** Figma, Adobe Creative Suite, Jira, Notion, Agile/Scrum, User Journey Mapping, Wireframing
 
 ---
 
 ### Professional Experience
 
 #### **CoLab Cooperative** | Remote  
-**Solutions Architect & Technical Business Development Lead** *(Oct 2017 – Present)*
-* Serve as principal client advisor and technical architect for mission-driven enterprises, cooperatives, and high-impact digital initiatives.
-* Lead pre-sales technical discovery and architectural evaluations; author comprehensive client proposals, Scopes of Work (SOWs), risk assessments, and technical roadmaps that consistently secure high-value client contracts.
-* Design end-to-end solution architectures prioritizing high availability, user-centered design, and stringent WCAG 2.1 accessibility benchmarks.
-* Formulate technical specifications and API integration strategies, orchestrating distributed development teams through sprint planning, architecture reviews, and delivery milestones.
-* Conduct continuous client advisory sessions, translating complex architectural concepts and trade-offs into clear business outcomes for non-technical executive stakeholders.
+**Lead Product Engineer & Technical Business Development Lead** *(Oct 2017 – Present)*
+* Partner with client stakeholders to discover product requirements, define user journeys, and architect full-stack web products that deliver measurable social and business impact.
+* Lead product scoping and discovery engagements; author comprehensive client proposals, Scopes of Work (SOWs), and product roadmaps that align technical feasibility with user and commercial goals.
+* Direct end-to-end product implementation from wireframes and design systems (Figma) to backend APIs and production deployments, ensuring strict adherence to WCAG 2.1 accessibility benchmarks.
+* Facilitate continuous feedback loops between cross-functional teams of designers, engineers, and non-technical stakeholders to rapidly prototype, iterate, and ship high-value features.
 
 #### **kubicue** | San Diego, CA  
-**Principal Technology Consultant & Systems Architect** *(Jun 2003 – Present)*
-* Provide vendor-agnostic technology consulting, digital strategy, and full-lifecycle solution architecture for non-profit organizations, educational institutions, and commercial clients.
+**Independent Product Engineer & Digital Strategist** *(Jun 2003 – Present)*
+* Deliver custom digital products, web applications, and interactive platforms for non-profit organizations, educational institutions, and mission-driven businesses.
 * Notable Client Engagements: *City University of New York (CUNY), The Working World, Center for Family Life, Center for Immigrant Families, San Diego Mesa College*.
-* Evaluate client business problems to recommend optimal tech stacks, balancing cost, maintainability, compliance, and time-to-market.
-* Deliver turnkey platform deployments encompassing cloud hosting setup, custom database schemas, third-party system integrations, and payment processor architectures.
+* Drive the complete product lifecycle: user research, tech stack selection, responsive UI development, custom CMS architecture, payment integrations, and cloud hosting deployments.
+* Advise clients on technical strategy, feature prioritization, and cost-effective product maintenance.
 
 #### **The City University of New York (CUNY)** | New York, NY  
-**Lead Web Solutions Architect & Section 508 Standards Coordinator** *(Sept 2014 – Dec 2015)*
-* Directed the architectural modernization and stability of university-wide web infrastructure serving tens of thousands of faculty, administrative staff, and students across 24 campuses.
-* Established and institutionalized the university's **Section 508 and WCAG Digital Accessibility Framework**, authoring compliance guidelines, technical audit checklists, and remediation protocols.
-* Designed and supervised middleware integrations connecting legacy administrative databases with public web portals utilizing RESTful and SOAP web services.
-* Delivered technical governance training and architectural workshops to senior department leads and engineering personnel on web standards, security compliance, and CMS best practices.
+**Web Product Engineer & Section 508 Standards Coordinator** *(Sept 2014 – Dec 2015)*
+* Enhanced and maintained user-facing web products and portal systems serving tens of thousands of students, faculty, and administrative staff across 24 campuses.
+* Served as the designated **Section 508 Accessibility Coordinator**, establishing product design guidelines, audit protocols, and remediation workflows to ensure universal access.
+* Engineered secure data integrations connecting administrative backend databases with student- and public-facing portals using REST and SOAP web services.
+* Conducted product onboarding and technical training sessions for university staff and faculty on CMS management and accessible content publishing.
 
 #### **The Working World** | Brooklyn, NY  
-**Systems Architect & Back-End Engineer** *(Dec 2012 – Sept 2014)*
-* Architected and maintained the back-end infrastructure for an international micro-finance and cooperative loan platform supporting operations across the United States, Argentina, and Nicaragua.
-* Designed transactional database schemas (MySQL) and secure financial reporting workflows integrated with third-party payment APIs (PayPal API, custom banking interfaces).
-* Hardened server infrastructure and audit logging protocols across distributed Linux/Apache instances to ensure transactional integrity and data confidentiality for international loan officers.
+**Product Engineer (Back-End & Platform)** *(Dec 2012 – Sept 2014)*
+* Built and iterated core platform features for an international cooperative loan and micro-finance product serving business users across the United States, Argentina, and Nicaragua.
+* Engineered transactional workflows, relational data models (MySQL), and payment processor integrations (PayPal API) to support multi-currency loan tracking.
+* Partnered directly with field loan officers to gather operational feedback, rapidly refining backend features to streamline transaction management and reporting.
 
 #### **Hunter College, CUNY** | New York, NY  
-**Solutions Engineer & Systems Administrator** *(Dec 2009 – Dec 2012)*
-* Architected distributed, multi-tenant digital repositories for academic research dissemination across national collegiate networks.
-* Designed and deployed fault-tolerant Linux server environments (Apache, Nginx, Lighttpd) accommodating variable traffic surges during institutional research publications.
-* Standardized application framework adoption across Drupal, WordPress, CodeIgniter, and Ruby on Rails to reduce codebase fragmentation and operational maintenance costs.
+**Web Product Engineer & Systems Administrator** *(Dec 2009 – Dec 2012)*
+* Designed and deployed digital web repositories and collaborative portals for faculty researchers, facilitating nationwide research data distribution.
+* Managed infrastructure reliability and application performance across high-traffic academic portals utilizing Apache, Nginx, and Linux server environments.
+* Built custom, user-focused modules across Drupal, WordPress, CodeIgniter, and Ruby on Rails.
 
 #### **Source Media** | New York, NY  
-**Digital Publishing Systems Engineer** *(Jan 2007 – Jan 2009)*
-* Engineered high-throughput content syndication systems and automated publishing pipelines for major digital media and financial publication brands.
-* Formulated architectural templates for dynamic content delivery across high-volume CMS properties and subscriber email distribution networks.
+**Digital Product Specialist & Web Developer** *(Jan 2007 – Jan 2009)*
+* Developed high-engagement digital media products, responsive email publications, and interactive microsites for leading financial and professional publications.
+* Standardized publishing templates and optimized dynamic database feeds for high-volume content delivery.
 
 #### **San Diego Mesa College** | San Diego, CA  
-**Web Systems Specialist** *(Jan 2005 – Dec 2006)*
-* Assisted the Head Webmaster in evaluating, testing, and modernizing campus web services for cross-platform compatibility and institutional standards compliance.
+**Junior Web Developer & Designer** *(Jan 2005 – Dec 2006)*
+* Assisted the Head Webmaster in designing, testing, and shipping user-friendly campus web pages adhering to institutional standards and cross-browser requirements.
 
 ---
 
@@ -73,9 +72,9 @@ Results-driven **Solutions Architect and Technical Consultant** with over two de
 
 #### **United States Navy** | San Diego, CA & International Deployments  
 **Quartermaster Second Class (E-5) / Small Craft Navigator** *(Jun 1999 – Jun 2004)*
-* Directed mission-critical navigation operations, tactical route planning, and real-time hazard evaluation in high-pressure maritime environments.
-* Managed classified intelligence, tactical charts, and radar systems under strict Department of Defense security clearance protocols.
-* Enforced stringent operational standard operating procedures (SOPs) and risk mitigation protocols; trained and mentored junior navigation watch teams.
+* Directed shipboard navigation, voyage planning, and tactical tracking in high-stress maritime environments.
+* Handled sensitive navigational intelligence, charts, and radar systems under Department of Defense security clearance protocols.
+* Enforced standard operating procedures and trained team members on mission-critical navigation systems.
 
 ---
 
